@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "894265504537",
+    "firebase_url": "https://languageproject-bf664.firebaseio.com",
+    "project_id": "languageproject-bf664",
+    "storage_bucket": "languageproject-bf664.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894265504537:android:66650812f8ea2419",
+        "android_client_info": {
+          "package_name": "com.example.klay.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894265504537-2o44jth81b4ema99rfaji52o6l5o6vli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.klay.myapplication",
+            "certificate_hash": "b54e383252ff5e8357330cb6b83293dbd6428994"
+          }
+        },
+        {
+          "client_id": "894265504537-f7h4h9ibtqebgmr95jhnv3o4vu19ol2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6qhlEAzA3ZE-PDs4WHXAnzkuOb6_pf-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894265504537-0qpt8869askgrhqsv64vm19h57udlldi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
